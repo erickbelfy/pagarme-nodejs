@@ -1,0 +1,23 @@
+{
+  "name": "pagarme-nodejs",
+  "version": "0.0.0",
+  "description": "Pagar.me bindings for node JS",
+  "main": "pagarme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erickbelfy/pagarme-nodejs.git"
+  },
+  "keywords": [
+    "pagarme",
+    "payment"
+  ],
+  "author": "Erick Belfort",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erickbelfy/pagarme-nodejs/issues"
+  },
+  "homepage": "https://github.com/erickbelfy/pagarme-nodejs"
+}
