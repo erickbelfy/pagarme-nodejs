@@ -2,7 +2,7 @@
   "name": "pagarme-nodejs",
   "version": "0.0.0",
   "description": "Pagar.me bindings for node JS",
-  "main": "pagarme.js",
+  "main": "index.js",
   "scripts": {
     "test": "vows --spec"
   },
